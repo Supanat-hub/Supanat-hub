@@ -15,13 +15,39 @@
 - 🎮 ทำ **Roblox script / UI** (Luau) และ mod เกมภาษาไทย
 - 🤖 ทำ **Discord bot** และเครื่องมือ automation ด้วย Python
 - 🤝 เคยแข่ง/ทำงานสาย **หุ่นยนต์ WRO / LEGO EV3** (PongTools)
-- 🌐 กำลังเรียนรู้ **Svelte** และ **Flutter**
+- 🌐 ทำ **Full-stack Web** ด้วย React / Vue / Next.js + Hono / Express
+- ☁️ Deploy บน **Cloudflare** (Workers, D1) ด้วย Drizzle ORM
+- 📈 เขียน **Trading bot** (MetaTrader5 + pandas) และเครื่องมือประมวลผลวิดีโอ/เสียง
+- 🌱 กำลังเรียนรู้ **Svelte** และ **Flutter**
 - 🔢 ชอบคณิตศาสตร์และโจทย์โอลิมปิก
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,lua,svelte,dart,flutter,css,html,git,github&theme=dark" alt="tech stack" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,lua,dart,html,css&theme=dark" alt="languages" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,svelte,vite,tailwind,flutter&theme=dark" alt="frontend" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite&theme=dark" alt="backend" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+</p>
+
+**Cloud, Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,git,github,vscode&theme=dark" alt="tools" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py" />
+  <img src="https://img.shields.io/badge/MetaTrader_5-2E7D32?style=flat-square" alt="MT5" />
+  <img src="https://img.shields.io/badge/MoviePy-FF6F00?style=flat-square" alt="MoviePy" />
+  <img src="https://img.shields.io/badge/Roblox-E2231A?style=flat-square&logo=roblox&logoColor=white" alt="Roblox" />
 </p>
 
 ## 🚀 Featured Projects

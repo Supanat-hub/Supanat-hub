@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=190&section=header&text=Supanat%20%7C%20Plazedez&fontSize=44&fontColor=0d1117&animation=fadeIn&fontAlignY=38" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=190&section=header&text=Plazedez&fontSize=44&fontColor=0d1117&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C9FF&center=true&vCenter=true&width=520&lines=Hi+I'm+Supanat+%F0%9F%91%8B;Roblox+%26+Python+hobbyist+developer;Discord+bots+%7C+Thai+mods+%7C+Robotics;GLHF+%F0%9F%8E%AE" alt="typing" />
 

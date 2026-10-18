@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C9FF&center=true&vCenter=true&width=520&lines=Hi+I'm+Supanat+%F0%9F%91%8B;Roblox+%26+Python+hobbyist+developer;Discord+bots+%7C+Thai+mods+%7C+Robotics;GLHF+%F0%9F%8E%AE" alt="typing" />
 
-![views](https://komarev.com/ghpvc/?username=Supanat-hub&label=views&style=for-the-badge&color=00C9FF)
+![views](https://komarev.com/ghpvc/?username=Supanat-hub)
 
 </div>
 
